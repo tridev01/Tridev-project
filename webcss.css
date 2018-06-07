@@ -1,0 +1,13 @@
+*{margin: 0; padding: 0;}
+body{margin: 0px auto; padding: 0px auto;}
+
+#wrapper{width: 600px; height: 500px; position: absolute;  margin:0px; float: left; background-color: #aaa; border-radius: 10px; left: 30%; top: 50px;}
+#wrapper h1{font-size: 40px; color:#191a1a; font-family: magneto; text-align: center;}
+.inner_wrapper{width: 560px; height: 430px; background-color: #191a1a; margin: auto 20px; float: left; border-radius: 5px;}
+#imges{width: 150px; height: 130px; margin: 15px 11px 15px 15px ; float: left; border: 2px solid #fff; border-radius: 5px;}
+#texts{width: 365px; height: 130px; background-color: #; margin:15px 15px 15px auto; float: right;}
+#texts h2{font-family: arial; color: #d5d7d9;}
+#texts p{font-family: arial; margin-bottom: 48px; line-height: 1.5em; color: #7c7d7f; font-weight: bold;}
+#songs{width:530px; height: 255px; background-color: #; margin: auto 15px 15px; float: left; overflow: scroll;}
+#songs ol{ list-style-type: none;}
+#songs ol li{border-bottom: 1px solid #7c7d7f; padding: 5px; color: #7c7d7f; cursor: pointer;}
